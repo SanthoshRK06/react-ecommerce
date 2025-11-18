@@ -1,0 +1,7 @@
+revert 127a1b1 Split checkout into a separate folder in pages
+revert 5a50356 Split header into a component and use Link
+revert dc005b5 Move orders page to React
+revert 8038cce Update links to match the router
+revert fca6649 Move checkout page into React
+revert a091928 Create multiple pages using react-router
+revert 4f7ee93 move the home page into React
